@@ -1,3 +1,5 @@
+#         Esse é o despertador que criei usando Python
+
 import time
 import datetime
 import pygame
